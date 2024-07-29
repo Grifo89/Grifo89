@@ -1,5 +1,3 @@
-# 👋 Hello, World! 🌍
-
 ```latex
  _____                                                                        _____
 ( ___ )----------------------------------------------------------------------( ___ )
@@ -15,6 +13,8 @@
  |___|                                                                        |___|
 (_____)----------------------------------------------------------------------(_____)
 ```
+
+# 👋 Hello, World! 🌍
 
 Welcome to my GitHub profile! My name is Christian Miño. 🚀 I'm a dedicated software developer with around **5 years** of experience, having worked in diverse industries such as sports, marketing, and consultancy. 💻
 
