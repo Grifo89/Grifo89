@@ -30,7 +30,7 @@ Here are some of my key skills and interests:
 - **Frameworks:** React, Next, Node.js
 - **Protocols:** Ethereum and all EVM related, ChainLink
 - **Tools:** Foundry, Hardhat, Remix, Openzeppelin
-- **Interests:** Smart contracts, distributed systems, Dafi, NFT's, CLI's, Fractals, Hyperlayer, R3Corda, Solana, Generative Art, Polkadot, Linux, Design
+- **Interests:** Smart contracts, distributed systems, Dafi, NFT's, CLI's, Fractals, Hyperlayer, R3Corda, Solana, Generative Art, Polkadot, Linux, Design, Cryptography
 
 ## Let's Connect 🤝
 
