@@ -40,6 +40,4 @@ I am always eager to collaborate with like-minded individuals and teams on excit
 
 Connect with me on social networks:
 
-- [![Christian Miño Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-miño/)
-
-- [![Christian Miño Website](https://img.shields.io/badge/Website-purple?style=for-the-badge&logo=rust)](https://grifo-devlab.com)
+[![Christian Miño Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-miño/) [![Christian Miño Website](https://img.shields.io/badge/Website-purple?style=for-the-badge&logo=rust)](https://grifo-devlab.com)
