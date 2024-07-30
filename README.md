@@ -28,7 +28,7 @@ Here are some of my key skills and interests:
 
 - **Languages:** Typescript, Solidity, Rust, Python
 - **Frameworks:** React, Next, Node.js
-- **Protocols:** Ethereum and all EVM related, ChainLink
+- **Protocols:** Ethereum and all EVM related, ChainLink, REST, GraphQL
 - **Tools:** Foundry, Hardhat, Remix, Openzeppelin
 - **Interests:** Smart contracts, distributed systems, Dafi, NFT's, CLI's, Fractals, Hyperlayer, R3Corda, Solana, Generative Art, Polkadot, Linux, Design, Cryptography
 
