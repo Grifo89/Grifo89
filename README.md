@@ -20,7 +20,7 @@ Welcome to my GitHub profile! My name is Christian Miño. 🚀 I'm a dedicated s
 
 🧑‍💻 I am passionate about leveraging technology to solve complex problems and create innovative solutions. 🌟 My journey in software development has been an exciting one, and I am constantly seeking new challenges to expand my skills and knowledge. 🚀
 
-🔍 Recently, I have delved into the fascinating realms of **Web3 development** and **blockchain technology**. 🌐⛓️ This shift has opened up a world of possibilities for building decentralized applications, exploring smart contracts, and diving into the world of non-fungible tokens (NFTs).
+🔍 Recently, I have delved into the fascinating realms of **Web3 development** and **blockchain technology**. 🌐⛓️
 
 ## Skills & Interests 💡
 
