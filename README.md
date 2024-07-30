@@ -34,7 +34,7 @@ Here are some of my key skills and interests:
 
 ## Let's Connect 🤝
 
-I am always eager to collaborate with like-minded individuals and teams on exciting projects. 💬 Feel free to explore my repositories, check out my projects, and reach out if you'd like to discuss ideas, collaborate, or just chat about the latest trends in Web3 development and Blockchain tecnology. 🚀🔗
+I am always eager to collaborate with like-minded individuals and teams on exciting projects. 💬 Feel free to explore my repositories, check out my projects, and reach out if you'd like to discuss ideas, collaborate, or just chat about the latest trends in Web development and Blockchain tecnology. 🚀🔗
 
 ## Social Networks 🌐
 
