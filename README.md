@@ -16,9 +16,9 @@
 
 # 👋 Hello, World! 🌍
 
-Welcome to my GitHub profile! My name is Christian Miño. 🚀 I'm a dedicated software developer with around **5 years** of experience, having worked in diverse industries such as sports, marketing, and consultancy. 💻
+Welcome to my GitHub profile! My name is Christian Miño. 🚀 I'm a dedicated Front-End Developer with around **5 years** of experience, having worked in diverse industries such as sports, marketing, and consultancy. 💻 Crafting intuitive and visually appealing user experiences Skilled in Figma and Proficient in the React.js ecosystem. specialized in performance 📈 and security🔒.
 
-🧑‍💻 I am passionate about leveraging technology to solve complex problems and create innovative solutions. 🌟 My journey in software development has been an exciting one, and I am constantly seeking new challenges to expand my skills and knowledge. 🚀
+🧑‍💻 Constantly learning and adapting to the latest industry trends (Web3, AI, Experimental Web APIs, etc), I am enthusiastic about contributing to impactful projects and driving growth in the ever-evolving landscape of design and development 🚀.
 
 🔍 Recently, I have delved into the fascinating realms of **Web3 development** and **blockchain technology**. 🌐⛓️
 
