@@ -16,27 +16,30 @@
 
 # 👋 Hello, World! 🌍
 
-Welcome to my GitHub profile! My name is Christian Miño. 🚀 I'm a dedicated Front-End Developer with around **5 years** of experience, having worked in diverse industries such as sports, marketing, and consultancy. 💻 Crafting intuitive and visually appealing user experiences Skilled in Figma and Proficient in the React.js ecosystem. specialized in performance 📈 and security🔒.
+Welcome to my GitHub profile! I'm **Christian Miño** — a passionate **Software Engineer** with over **5 years** of experience building scalable, user-centric digital products across industries like sports, marketing, and consultancy.
 
-🧑‍💻 Constantly learning and adapting to the latest industry trends (Web3, AI, Experimental Web APIs, etc), I am enthusiastic about contributing to impactful projects and driving growth in the ever-evolving landscape of design and development 🚀.
+🚀 I'm currently focused on **LLM engineering** and **AI product development**, building intelligent systems using **Large Language Models**, with an emphasis on **prompt and context engineering**, **retrieval-augmented generation (RAG)**, **MCP and A2A protocols** and **end-to-end deployment** with tools like **LangChain**, **LlamaIndex**, **OpenAI**, and **Vector Databases**.
 
-🔍 Recently, I have delved into the fascinating realms of **Web3 development** and **blockchain technology**. 🌐⛓️
+🧠 I’m deeply interested in combining robust engineering with impactful AI — making advanced models accessible, intuitive, and production-ready.
+
+🌱 Lifelong learner and tech enthusiast — always exploring areas like LLM fine-tuning, multimodal AI, experimental web APIs, and beyond.
 
 ## Skills & Interests 💡
 
 Here are some of my key skills and interests:
 
-- **Languages:** Typescript, Rust
-- **Frameworks:** React, Next, Node.js React-Native
-- **Tools:** Figma, ReduxToolkit, TailwindCSS, React-Router-dom
-- **Interests:** UI/UX Design, Product Design, Blockchain, Machine Learning, Web3, Rust
+- **Languages:** Python, TypeScript, Rust
+- **Frameworks/Libraries:** LangChain, React, Next.js, Node.js, FastAPI, LlamaIndex
+- **AI/ML Tools:** OpenAI API, Hugging Face Transformers, Pinecone, Weaviate  
+- **Interests:** LLM Engineering, AI Product Development, Prompt Engineering, RAG Systems, Multimodal AI, Software Architecture
 
 ## Let's Connect 🤝
 
-I am always eager to collaborate with like-minded individuals and teams on exciting projects. 💬 Feel free to explore my repositories, check out my projects, and reach out if you'd like to discuss ideas, collaborate, or just chat about the latest trends in Web development and Blockchain tecnology. 🚀🔗
+I'm always open to collaborating with like-minded engineers, researchers, and product teams who are building the next generation of intelligent applications. 💬  
+Feel free to explore my repositories, check out my projects, or reach out if you're interested in AI, LLMs, or just want to chat about building smart and scalable software.
 
 ## Social Networks 🌐
 
-Connect with me on social networks:
+Connect with me on social media:
 
 [![Christian Miño Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-miño/) [![Christian Miño Website](https://img.shields.io/badge/Website-purple?style=for-the-badge&logo=rust)](https://grifo-devlab.com)
