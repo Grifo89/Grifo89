@@ -29,8 +29,8 @@ Welcome to my GitHub profile! I'm **Christian Miño** — a passionate **Softwar
 Here are some of my key skills and interests:
 
 - **Languages:** Python, TypeScript, Rust
-- **Frameworks/Libraries:** LangChain, React, Next.js, Node.js, FastAPI, LlamaIndex
-- **AI/ML Tools:** OpenAI API, Hugging Face Transformers, Pinecone, Weaviate  
+- **Frameworks/Libraries:** LangChain, React, Next.js, Node.js, FastAPI, LlamaIndex, ...etc.
+- **AI/ML Tools:** OpenAI API, Hugging Face Transformers, PyTorch, TensorFlow, LangFuse, ...etc.   
 - **Interests:** LLM Engineering, AI Product Development, Prompt Engineering, RAG Systems, Multimodal AI, Software Architecture
 
 ## Let's Connect 🤝
